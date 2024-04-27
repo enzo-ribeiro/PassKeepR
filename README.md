@@ -19,7 +19,7 @@ PassKeepr est un gestionnaire de mots de passe simpleé, conçu pour stocker et 
 
 1. Cloner le dépôt :
    ```bash
-   git clone https://github.com/enzo_ribeir0/PassKeepr.git
+   git clone https://github.com/enzo_ribeiro/PassKeepr.git
    ```
    
 2. Installer les dépendances :
