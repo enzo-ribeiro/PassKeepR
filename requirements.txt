@@ -1,0 +1,7 @@
+rich
+colorama
+secrets
+string
+subprocess
+platform
+sqlite3
