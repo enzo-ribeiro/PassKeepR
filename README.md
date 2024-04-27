@@ -23,9 +23,9 @@ PassKeepr est un gestionnaire de mots de passe simpleé, conçu pour stocker et 
    ```
    
 2. Installer les dépendances :
-  ```bash
-  pip install -r requirements.txt
-  ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. Lancer le .py
    ```bash
